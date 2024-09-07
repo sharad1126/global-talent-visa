@@ -61,7 +61,7 @@ The list of evidence submitted is detailed below. There is a complete guide with
 * I did not use DocuSign or anything similar to get signatures for my recommendation letters. I used smallpdf.com for two of the four letters I used in my application to get a better signature but did not add the details it generates so that anyone can initiate that signing process.
 * Keep each piece of evidence within the 3-page limit. Even I had to remove one letter for this reason.
 
-Lastly, I just want to say, 'Good luck with your application!' If you have any questions after reading this, feel free to create an [issue on this repo](https://github.com/sharad1126/global-talent-visa/issues) so I can answer them here for everyone to look at and maybe even add them to this readme. If there's something else you'd like to ask, [get in touch with me](https://sharad1126.github.io/).
+Lastly, I want to say, 'Good luck with your application!' If you have any questions after reading this, feel free to create an [issue on this repo](https://github.com/sharad1126/global-talent-visa/issues) so I can answer them here for everyone to look at and maybe even add them to this readme. If there's something else you'd like to ask, [get in touch with me](https://sharad1126.github.io/). I also want to thank my advisors, employers, collaborators, and friends, who have helped and supported my application. 
 
 If this has helped you, consider [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/sharad1126)
 <a href="https://www.buymeacoffee.com/sharad1126" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="20" width="93"></a>
